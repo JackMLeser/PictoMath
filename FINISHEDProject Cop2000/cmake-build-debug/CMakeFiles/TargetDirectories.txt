@@ -1,0 +1,3 @@
+/Users/jack/CLionProjects/FINISHEDProject Cop2000/cmake-build-debug/CMakeFiles/FINISHEDProject_Cop2000.dir
+/Users/jack/CLionProjects/FINISHEDProject Cop2000/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jack/CLionProjects/FINISHEDProject Cop2000/cmake-build-debug/CMakeFiles/rebuild_cache.dir
